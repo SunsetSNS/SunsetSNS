@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @SunsetSNS
-- 👀 I’m interested in Cryptocurrency
-- 🌱 I’m currently learning how to upgrade my token way better
-- 💞️ I’m looking to collaborate on people who knows how to upgrade the code of my token
-- 📫 How to reach me via email
+- 👋 Welcome everyone
+- 👀 Currently we are searching to grow up the team
+- 🌱 This is the right place to learn about our token
+- 💞️ I’m looking to collaborate .
+- 📫 Reach me via email
 - contact@sunset-token.com
 
 
-SunsetSNS/SunsetSNS is ready to go to the Jupiter ...
+Sunset / SNS Decentralization on the horizon
